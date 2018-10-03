@@ -1,0 +1,30 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    
+    int x , y,t;
+    
+    cin >> t;
+    
+    while(t--)
+    {
+       cin >> x >> y;
+       
+       if(x >= y) 
+       {
+           cout << "MMM BRAINS" << endl;
+       }
+       
+       else
+       cout << "MMM BRAINS" << endl;
+        
+    }
+    
+    
+    
+    
+    
+    return 0;
+}
